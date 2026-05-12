@@ -82,3 +82,21 @@ GET /stations
 ```
 
 Returns all subway stations.
+
+# NYC Subway Analytics Dashboard
+
+Power BI dashboard analyzing NYC subway ridership trends using MTA ridership data.
+
+## Features
+- Top 10 busiest subway stations
+- Ridership distribution by borough
+- Hourly subway traffic trends
+- Peak hour ridership analysis by borough
+
+
+## Dashboard Preview
+
+![Dashboard](screenshots/powerbi_dashboard.png)
+
+## Dataset
+NYC MTA Subway Ridership Data
